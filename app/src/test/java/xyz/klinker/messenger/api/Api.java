@@ -22,9 +22,9 @@ package xyz.klinker.messenger.api;
  * whenever a class interfaced with the api. Some type of dependency issue I could not solve.
  */
 public class Api {
-    private static final String API_DEBUG_URL = "http://192.168.1.127:3000/api/v1/";
-    private static final String API_STAGING_URL = "https://klinkerapps-messenger-staging.herokuapp.com/api/v1/";
-    private static final String API_RELEASE_URL = "https://api.messenger.klinkerapps.com/api/v1/";
+    private static final String API_DEBUG_URL = "http://10.10.10.242:5000/api/v1/";
+    private static final String API_STAGING_URL = "http://10.10.10.242:5000/api/v1/";
+    private static final String API_RELEASE_URL = "http://10.10.10.242:5000/api/v1/";
 
     public enum Environment {
         DEBUG, STAGING, RELEASE

@@ -158,10 +158,13 @@ public class LoginActivity extends AppCompatActivity {
             signup.setEnabled(false);
             signupFailed.setVisibility(View.VISIBLE);
             findViewById(R.id.skip_holder).setVisibility(View.GONE);
-        } else if (getIntent().getBooleanExtra(ARG_FORCE_NO_CREATE_ACCOUNT, false)) {
+        }
+        /*
+        else if (getIntent().getBooleanExtra(ARG_FORCE_NO_CREATE_ACCOUNT, false)) {
             signup.setEnabled(false);
             findViewById(R.id.skip_holder).setVisibility(View.GONE);
         }
+        */
 
         login.setOnClickListener(view -> login());
         signup.setOnClickListener(view -> signup());
