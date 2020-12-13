@@ -108,7 +108,7 @@ Du kan bruke Pulse til å tekste fra <b>hvilken som helst</b> enhet!</string>
     <!-- Invite Friends Screen -->
     <string name="invite_friends_title">Elsker Pulse?</string>
     <string name="invite_friends_summary">Så gjør vi og så andre! Vi prøver å få det inn i
-så mange hender som mulig for å fortsette å gjøre det til det beste produktet som det kan være og ved å 
+så mange hender som mulig for å fortsette å gjøre det til det beste produktet som det kan være og ved å
 inviterer vennene dine til å prøve, hjelper du med dette! \ N \ nVelg vennene under, som
 du vil sende appen til og den vil sende dem en SMS med en kort beskrivelse og
 en lenke for å laste ned!</string>
@@ -599,7 +599,7 @@ Du kan tilpasse disse alternativene med knappen nedenfor og lese mer om denne en
     <string name="off">Av</string>
     <string name="on">På</string>
     <string name="share_promo">Hei, jeg elsker Pulse for teksting! Gi det et forsøk:
-https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Verifiserer passord ...</string>
     <!-- Rate it -->
     <string name="rate_it">Rangere det!</string>

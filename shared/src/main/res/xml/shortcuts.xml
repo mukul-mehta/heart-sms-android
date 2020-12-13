@@ -11,9 +11,9 @@
         tools:targetApi="n_mr1">
 
         <intent
-            android:targetPackage="xyz.klinker.messenger"
+            android:targetPackage="xyz.heart.sms"
             android:action="android.intent.action.VIEW"
-            android:targetClass="xyz.klinker.messenger.activity.compose.ComposeActivity" />
+            android:targetClass="xyz.heart.sms.activity.compose.ComposeActivity" />
 
         <categories android:name="android.shortcut.conversation" />
 

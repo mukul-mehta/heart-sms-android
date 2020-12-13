@@ -17,7 +17,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat android:title="@string/app_info">
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat android:title="@string/app_info">
 
         <Preference
             android:key="@string/pref_about_open_source"
@@ -40,9 +40,9 @@
             android:title="@string/device_info"
             app:iconSpaceReserved="false" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat>
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat android:title="@string/platform_info">
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat android:title="@string/platform_info">
 
         <Preference
             android:key="@string/pref_about_copyright"
@@ -79,6 +79,6 @@
             android:summary="@string/beta_disclaimer" />
             app:iconSpaceReserved="false"-->
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat>
 
 </PreferenceScreen>

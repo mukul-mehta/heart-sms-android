@@ -517,7 +517,7 @@
 有了Pulse，一切都是顺利的，简单的，完全自动的。</string>
     <string name="message_backup_summary_have_account">看来您已经有一个Pulse帐户，太好了！
 使用您的帐户，Pulse将自动备份您发送和接收的所有短信。
-当您在其他设备上查看该应用程序时，实际上只是在访问此备份。 
+当您在其他设备上查看该应用程序时，实际上只是在访问此备份。
 要将短信还原到新设备，您要做的就是登录您的帐户。</string>
     <string name="auto_reply_configuration">自动回复设置</string>
     <string name="auto_reply_configuration_summary">根据您的情况设置自动回复</string>
@@ -621,7 +621,7 @@
     <string name="off">关闭</string>
     <string name="on">开启</string>
     <string name="share_promo">嗨，我最近喜欢上了用Pulse发短信，你也来试试吧：
-https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">正在验证密码...</string>
     <!-- Rate it -->
     <string name="rate_it">给它打分！</string>

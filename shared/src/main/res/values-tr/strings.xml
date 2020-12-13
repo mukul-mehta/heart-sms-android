@@ -403,7 +403,7 @@ her sohbet için bir zaman damgası gösterme</string>
     <string name="enter_phone">Telefon Numarası Girin</string>
     <string name="blacklist_phrase_hint">Kara listeye alınacak ifadeyi yazın...</string>
     <string name="add_blacklist">%1$s\n\nBunu kara listeye almak istediğinize emin misiniz? Artık bu numaradan gelen mesajlar kaydedilmeyecek ve bildirim almayacaksınız!</string>
-    <string name="add_blacklist_phrase">%1$s\n\nBunu kara listeye almak istediğinize emin misiniz? Artık 
+    <string name="add_blacklist_phrase">%1$s\n\nBunu kara listeye almak istediğinize emin misiniz? Artık
 bu ifadeyi içeren mesajlar kaydedilmeyecek ve bildirim almayacaksınız!</string>
     <string name="remove_blacklist">%1$s\n\nBunu kara listeden silmek istiyor musun?</string>
     <string name="blacklist_need_number">Kara listeye alınacak bir telefon numarası girmeniz gerekiyor!</string>
@@ -525,8 +525,8 @@ sadece mesajın alıcısına gösterilir.</string>
     <string name="use_smart_reply_settings">Ayarlar</string>
     <string name="message_backup">Mesajları Yedekle</string>
     <string name="message_backup_pref_summary">Mesajlarınızı kaybetmekten mi korkuyorsunuz? Pulse sizi korur.</string>
-    <string name="message_backup_summary">Biliyor musunuz: Pulse\'un çevrimiçi hizmeti, mesajlarınızı yedeklemek için geliştirildi. 
-Bir Pulse hesabı oluşturduğunuzda, herhangi bir cihazınızdan bu hesaba giriş yapabilir ve tüm mesajlarınızı, otomatik olarak geri yükleyebilirsiniz.\n\nElle yedekleme yapmanın güçlüğünü ve karışıklığını yaşamazsınız. 
+    <string name="message_backup_summary">Biliyor musunuz: Pulse\'un çevrimiçi hizmeti, mesajlarınızı yedeklemek için geliştirildi.
+Bir Pulse hesabı oluşturduğunuzda, herhangi bir cihazınızdan bu hesaba giriş yapabilir ve tüm mesajlarınızı, otomatik olarak geri yükleyebilirsiniz.\n\nElle yedekleme yapmanın güçlüğünü ve karışıklığını yaşamazsınız.
 Pulse ile her şey pürüzsüz, kolay ve tamamen otomatiktir.</string>
     <string name="message_backup_summary_have_account">Zaten bir Pulse hesabınızın olduğu görünüyor, harika! Pulse otomatik olarak gönderdiğiniz ve aldığınız mesajları hesabınıza yedekler. Başka bir cihazda uygulamayı açtığınızda, tam olarak bu yedeğe erişirsiniz. Yeni bir cihaza mesajları geri yüklemek için tüm yapmanız gereken, bu cihazda hesabınıza giriş yapmaktır.</string>
     <string name="auto_reply_configuration">Otomatik Yanıt Yapılandırması</string>
@@ -631,7 +631,7 @@ Aşağıdaki düğme ile bu seçenekleri özelleştirebilirsiniz. Daha fazla bil
     <string name="off">Kapalı</string>
     <string name="on">Açık</string>
     <string name="share_promo">Selam, mesajlaşmak için Pulse\'a bayılıyorum! Bir şans ver:
-https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Parola doğrulanıyor...</string>
     <!-- Rate it -->
     <string name="rate_it">Oyla!</string>

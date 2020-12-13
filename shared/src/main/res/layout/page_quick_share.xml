@@ -20,7 +20,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <xyz.klinker.messenger.shared.view.MaxHeightScrollView
+    <xyz.heart.sms.shared.view.MaxHeightScrollView
         android:id="@+id/top_background"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -42,9 +42,9 @@
             android:textColor="@android:color/white"
             android:textColorHint="@color/toolbarEditTextHint" />
 
-    </xyz.klinker.messenger.shared.view.MaxHeightScrollView>
+    </xyz.heart.sms.shared.view.MaxHeightScrollView>
 
-    <xyz.klinker.messenger.view.ImageKeyboardEditText
+    <xyz.heart.sms.view.ImageKeyboardEditText
         android:id="@+id/message_entry"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

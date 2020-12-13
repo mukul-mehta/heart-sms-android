@@ -6,7 +6,7 @@
         android:summary="@string/create_folder_summary"
         android:title="@string/create_folder" />
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:key="@string/pref_folders_category"
         android:title="@string/folders_title" />
 

@@ -30,28 +30,28 @@
         android:title="@string/pin_conversation"
         android:summary="@string/pin_conversation_summary" />
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:key="@string/pref_contact_customization_group"
         android:title="@string/theme_settings">
 
-        <xyz.klinker.messenger.view.ColorPreference
+        <xyz.heart.sms.view.ColorPreference
             android:key="@string/pref_contact_primary_color"
             android:title="@string/primary_color"
             app:display_normalize="true"/>
 
-        <xyz.klinker.messenger.view.ColorPreference
+        <xyz.heart.sms.view.ColorPreference
             android:key="@string/pref_contact_primary_dark_color"
             android:title="@string/primary_dark_color"
             app:display_normalize="false" />
 
-        <xyz.klinker.messenger.view.ColorPreference
+        <xyz.heart.sms.view.ColorPreference
             android:key="@string/pref_contact_accent_color"
             android:title="@string/accent_color"
             app:display_normalize="false" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:key="@string/pref_contact_notification_group"
         android:title="@string/notification_settings">
 
@@ -67,7 +67,7 @@
             android:showDefault="true"
             android:showSilent="true" />
 
-        <xyz.klinker.messenger.view.ColorPreference
+        <xyz.heart.sms.view.ColorPreference
             android:key="@string/pref_contact_led_color"
             android:title="@string/led_color"
             app:display_normalize="true"/>
@@ -81,9 +81,9 @@
             android:key="@string/pref_contact_notification_channel_restore_default"
             android:title="@string/restore_default_channel_settings" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:key="@string/pref_contact_advanced_group"
         android:title="@string/advanced">
 
@@ -104,6 +104,6 @@
             android:title="@string/cleanup_old_messages"
             android:summary="@string/cleanup_old_messages_now_summary"/>
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
 </PreferenceScreen>

@@ -51,7 +51,7 @@
             android:scaleType="centerInside"
             android:transitionName="image" />
 
-        <xyz.klinker.messenger.shared.view.emoji.EmojiableTextView
+        <xyz.heart.sms.shared.view.emoji.EmojiableTextView
             android:id="@+id/message"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

@@ -16,7 +16,7 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:key="@string/pref_driving_mode_group"
         android:title="@string/driving_mode">
 
@@ -24,13 +24,13 @@
             android:key="@string/pref_driving_mode"
             android:summary="@string/driving_mode_summary"/>
 
-        <xyz.klinker.messenger.shared.view.AutoSummaryEditTextPreference
+        <xyz.heart.sms.shared.view.AutoSummaryEditTextPreference
             android:key="@string/pref_driving_mode_editable"
             android:title="@string/auto_reply_text" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:key="@string/pref_vacation_mode_group"
         android:title="@string/vacation_mode">
 
@@ -38,13 +38,13 @@
             android:key="@string/pref_vacation_mode"
             android:summary="@string/driving_mode_summary"/>
 
-        <xyz.klinker.messenger.shared.view.AutoSummaryEditTextPreference
+        <xyz.heart.sms.shared.view.AutoSummaryEditTextPreference
             android:key="@string/pref_vacation_mode_editable"
             android:title="@string/auto_reply_text" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:key="@string/pref_auto_replies_group"
         android:title="@string/auto_replies">
 
@@ -54,6 +54,6 @@
             android:key="@string/pref_create_auto_reply"
             android:title="@string/create_auto_reply" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
 </PreferenceScreen>

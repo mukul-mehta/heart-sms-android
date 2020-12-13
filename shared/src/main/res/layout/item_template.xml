@@ -23,7 +23,7 @@
     android:elevation="2dp"
     android:clickable="true" >
 
-    <xyz.klinker.messenger.shared.view.emoji.EmojiableTextView
+    <xyz.heart.sms.shared.view.emoji.EmojiableTextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/text"

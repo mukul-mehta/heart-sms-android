@@ -95,7 +95,7 @@ Du kan bruge Pulse til at sende besked fra <b>alle</b>enheder!</string>
     <string name="messages">Beskeder</string>
     <!-- Invite Friends Screen -->
     <string name="invite_friends_title">Elsker du Pulse?</string>
-    <string name="invite_friends_summary">Det gør vi, og det vil andre også! Vi forsøger at få det ud til så mange som muligt, så vi kan forsætte med at skabe den bedste tjeneste muligt, og ved at invitere dine venner til at prøve Pulse hjælper du med dette! 
+    <string name="invite_friends_summary">Det gør vi, og det vil andre også! Vi forsøger at få det ud til så mange som muligt, så vi kan forsætte med at skabe den bedste tjeneste muligt, og ved at invitere dine venner til at prøve Pulse hjælper du med dette!
 \n\nSelect de venner forneden, som du vil invitere til app\'en, og de vil modtage en SMS med en kort beskrivelse og et downloadlink.</string>
     <string name="invite_friends_sms">Jeg bruger en ny app til tekstbeskeder, og jeg er sikker på, du vil elske den! Den er oven i købet gratis, så du taber intet ved at prøve den: http://messenger.klinkerapps.com</string>
     <!-- Message List Screen -->
@@ -439,7 +439,7 @@ prøv det i dag!</string>
 Brug standard kanaler for at tilpasse de samtaler, du ikke har lavet individuelle kanaler til.</string>
     <string name="off">Fra</string>
     <string name="on">Til</string>
-    <string name="share_promo">Hej, jeg elsker at bruge Pulse til beskeder. Prøv det: https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+    <string name="share_promo">Hej, jeg elsker at bruge Pulse til beskeder. Prøv det: https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Bekræfter adgangskode...</string>
     <!-- Rate it -->
     <string name="rate_it">Bedøm!</string>

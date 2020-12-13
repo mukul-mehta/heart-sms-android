@@ -575,7 +575,7 @@ Med ditt konto kommer Pulse automatiskt säkerhetskopiera alla meddelanden som d
     <string name="channels_global_warning_3">Med Android Oreo kommer några av inställningarna ovan att omdirigera dig till systeminställningarna för <i>notiskanaler</i>. För att läsa mer om notiskanaler, hur de fungerar och varför de måste användas, var vänlig läs Pulse hjälpsidor.</string>
     <string name="off">Av</string>
     <string name="on">På</string>
-    <string name="share_promo">Hej, jag älskar Pulse för meddelanden! Prova du med: https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+    <string name="share_promo">Hej, jag älskar Pulse för meddelanden! Prova du med: https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Bekräftar lösenord...</string>
     <!-- Rate it -->
     <string name="rate_it">Betygsätt!</string>

@@ -34,7 +34,7 @@
         android:title="@string/mms_download_directory"
         android:summary="@string/mms_download_directory_summary" />
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:title="@string/apn_configuration" >
 
         <SwitchPreference
@@ -42,38 +42,38 @@
             android:title="@string/override_system_apn"
             android:defaultValue="false" />
 
-        <xyz.klinker.messenger.shared.view.AutoSummaryEditTextPreference
+        <xyz.heart.sms.shared.view.AutoSummaryEditTextPreference
             android:key="@string/pref_mmsc_url"
             android:title="@string/mmsc_url"
             android:dependency="@string/pref_override_system_apn" />
 
-        <xyz.klinker.messenger.shared.view.AutoSummaryEditTextPreference
+        <xyz.heart.sms.shared.view.AutoSummaryEditTextPreference
             android:key="@string/pref_mms_proxy"
             android:title="@string/mms_proxy"
             android:dependency="@string/pref_override_system_apn" />
 
-        <xyz.klinker.messenger.shared.view.AutoSummaryEditTextPreference
+        <xyz.heart.sms.shared.view.AutoSummaryEditTextPreference
             android:key="@string/pref_mms_port"
             android:title="@string/mms_port"
             android:dependency="@string/pref_override_system_apn" />
 
-        <xyz.klinker.messenger.shared.view.AutoSummaryEditTextPreference
+        <xyz.heart.sms.shared.view.AutoSummaryEditTextPreference
             android:key="@string/pref_user_agent"
             android:title="@string/user_agent"
             android:defaultValue="Android-Mms/2.0"
             android:dependency="@string/pref_override_system_apn" />
 
-        <xyz.klinker.messenger.shared.view.AutoSummaryEditTextPreference
+        <xyz.heart.sms.shared.view.AutoSummaryEditTextPreference
             android:key="@string/pref_user_agent_profile_url"
             android:title="@string/user_agent_profile_url"
             android:dependency="@string/pref_override_system_apn" />
 
-        <xyz.klinker.messenger.shared.view.AutoSummaryEditTextPreference
+        <xyz.heart.sms.shared.view.AutoSummaryEditTextPreference
             android:key="@string/pref_user_agent_profile_tag"
             android:title="@string/user_agent_profile_tag"
             android:defaultValue="x-wap-profile"
             android:dependency="@string/pref_override_system_apn" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
 </PreferenceScreen>

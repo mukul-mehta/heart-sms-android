@@ -473,7 +473,7 @@ jetzt ausprobieren!</string>
     <string name="channels_global_warning_2">Die Android <i>Benachrichtigungskanäle</i> sind nun für die meisten Einstellungen notwendig.\n\nSie können jede Unterhaltung einzeln konfigurieren, indem Sie einen <i>Benachrichtigungskanal</i> im Einstellungsmenü der jeweiligen Unterhaltung erstellen. Nutzen Sie den Standard-Kanal für die Konfiguration aller Unterhaltungen, für die sie keinen individuellen Kanal erstellt haben.</string>
     <string name="off">Aus</string>
     <string name="on">Ein</string>
-    <string name="share_promo">Hey, ich liebe diese tolle neue SMS-App: Pulse! Probier sie jetzt aus: https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+    <string name="share_promo">Hey, ich liebe diese tolle neue SMS-App: Pulse! Probier sie jetzt aus: https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Prüfe Passwort...</string>
     <!-- Rate it -->
     <string name="rate_it">Jetzt bewerten!</string>

@@ -17,7 +17,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat
         android:key="@string/pref_help_troubleshooting_category"
         android:title="@string/troubleshooting">
 
@@ -42,9 +42,9 @@
             android:title="@string/features"
             app:iconSpaceReserved="false"/>
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat>
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat
         android:title="@string/get_in_touch" >
 
         <Preference
@@ -65,6 +65,6 @@
             android:summary="@string/issues_summary"
             app:iconSpaceReserved="false" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat>
 
 </PreferenceScreen>

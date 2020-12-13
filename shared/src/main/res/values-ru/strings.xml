@@ -654,7 +654,7 @@
     <string name="channels_global_warning_3">В Android Oreo некоторые из перечисленных выше вариантов перенаправят вас на системные настройки <i> Каналы уведомлений </i> для настройки. Чтобы узнать больше об этих каналах, о том, как они работают и почему они должны использоваться, см. справку Pulse.</string>
     <string name="off">Не включать</string>
     <string name="on">Включать</string>
-    <string name="share_promo">Привет! Мне очень понравилось переписываться через Pulse! Попробуй и ты, по это ссылке: https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+    <string name="share_promo">Привет! Мне очень понравилось переписываться через Pulse! Попробуй и ты, по это ссылке: https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Проверяем пароль...</string>
     <!-- Rate it -->
     <string name="rate_it">Оценить!</string>

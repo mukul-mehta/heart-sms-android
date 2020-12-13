@@ -99,7 +99,7 @@
                 android:src="@android:color/black"
                 android:visibility="gone" />
 
-            <xyz.klinker.messenger.shared.view.emoji.EmojiableTextView
+            <xyz.heart.sms.shared.view.emoji.EmojiableTextView
                 android:id="@+id/name"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -109,7 +109,7 @@
                 android:textColor="@color/primaryText"
                 android:textSize="16sp" />
 
-            <xyz.klinker.messenger.shared.view.emoji.EmojiableTextView
+            <xyz.heart.sms.shared.view.emoji.EmojiableTextView
                 android:id="@+id/date"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -119,7 +119,7 @@
 
         </LinearLayout>
 
-        <xyz.klinker.messenger.shared.view.emoji.EmojiableTextView
+        <xyz.heart.sms.shared.view.emoji.EmojiableTextView
             android:id="@+id/summary"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

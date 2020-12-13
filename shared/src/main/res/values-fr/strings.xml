@@ -404,7 +404,7 @@ pourriez rencontrer !</string>
     <string name="enter_phrase">Entrer le texte</string>
     <string name="enter_phone">Entrer un numéro de téléphone</string>
     <string name="blacklist_phrase_hint">Entrer le texte pour la liste noire</string>
-    <string name="add_blacklist">%1$s\n\nÊtes-vous sûr de vouloir l\'ajouter en liste noire ? Les messages 
+    <string name="add_blacklist">%1$s\n\nÊtes-vous sûr de vouloir l\'ajouter en liste noire ? Les messages
 provenant de ce numéro ne seront plus sauvegardés, et vous ne serez plus notifié.</string>
     <string name="add_blacklist_phrase">%1$s\n\nÊtes-vous sûr de vouloir ajouter cette liste noire ? Les messages ne seront plus sauvegardés s\'ils contiennent ce texte, et vous ne recevrez pas de notification !</string>
     <string name="remove_blacklist">%1$s\n\nVoulez-vous retirer ce numéro de la liste noire ?</string>
@@ -636,7 +636,7 @@ Utilisez le canal par défaut pour personnaliser les conversations auxquelles vo
     <string name="channels_global_warning_3">Avec Android Oreo, certaines des options ci-dessus vous redirigeront vers les paramètres des <i>canaux de notifications</i> d\'Android. Pour en savoir plus à propos de ces canaux, de la façon dont ils fonctionnent, et pourquoi ils doivent être utilisés, dirigez vous vers la page d\'aide de Pulse.</string>
     <string name="off">Inactif</string>
     <string name="on">Actif</string>
-    <string name="share_promo">Hey, j\'utilise Pulse pour envoyer des messages ! Essaye le : https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+    <string name="share_promo">Hey, j\'utilise Pulse pour envoyer des messages ! Essaye le : https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Vérification du mot de passe...</string>
     <!-- Rate it -->
     <string name="rate_it">Noter l\'application !</string>

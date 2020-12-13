@@ -17,7 +17,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat
         android:title="@string/account_information"
         android:key="@string/pref_category_account_information">
 
@@ -45,13 +45,13 @@
             android:title="@string/view_platforms"
             app:iconSpaceReserved="false" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat>
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat
         android:title="@string/danger_zone"
         android:key="@string/pref_category_account_actions">
 
-        <xyz.klinker.messenger.shared.view.AlwaysOffSwitchPreference
+        <xyz.heart.sms.shared.view.AlwaysOffSwitchPreference
             android:key="@string/pref_enable_danger_zone"
             android:summary="@string/be_careful_using_these_settings"
             android:defaultValue="false"
@@ -85,6 +85,6 @@
             android:dependency="@string/pref_enable_danger_zone"
             app:iconSpaceReserved="false"/>
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategoryCompat>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategoryCompat>
 
 </PreferenceScreen>

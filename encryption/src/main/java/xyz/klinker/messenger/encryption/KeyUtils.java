@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.encryption;
+package xyz.heart.sms.encryption;
 
 import java.nio.charset.StandardCharsets;
 import java.security.NoSuchAlgorithmException;

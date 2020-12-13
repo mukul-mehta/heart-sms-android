@@ -16,7 +16,7 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:title="@string/experiments_info_section_title">
 
         <Preference
@@ -36,9 +36,9 @@
             android:key="@string/pref_open_source_link"
             android:summary="@string/experiments_info_disclaimer_3" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
-    <xyz.klinker.messenger.shared.view.MaterialPreferenceCategory
+    <xyz.heart.sms.shared.view.MaterialPreferenceCategory
         android:title="@string/experiments_preferences_section_title">
 
         <SwitchPreference
@@ -53,6 +53,6 @@
             android:summary="@string/blacklist_phrase_regex_summary"
             android:defaultValue="false" />
 
-    </xyz.klinker.messenger.shared.view.MaterialPreferenceCategory>
+    </xyz.heart.sms.shared.view.MaterialPreferenceCategory>
 
 </PreferenceScreen>

@@ -16,7 +16,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="xyz.klinker.messenger.shared"
+    package="xyz.heart.sms.shared"
     tools:ignore="MissingLeanbackLauncher">
 
     <uses-permission android:name="android.permission.SEND_SMS" />
@@ -242,7 +242,7 @@
             android:name=".receiver.CarReplyReceiver"
             android:exported="false" >
             <intent-filter>
-                <action android:name="xyz.klinker.messenger.CAR_REPLY"/>
+                <action android:name="xyz.heart.sms.CAR_REPLY"/>
             </intent-filter>
         </receiver>
 
@@ -250,7 +250,7 @@
             android:name=".receiver.CarReadReceiver"
             android:exported="false" >
             <intent-filter>
-                <action android:name="xyz.klinker.messenger.CAR_READ"/>
+                <action android:name="xyz.heart.sms.CAR_READ"/>
             </intent-filter>
         </receiver>
 

@@ -97,7 +97,7 @@
     </plurals>
     <string name="undo">Desfazer</string>
     <string name="enter_search">Procurando por...</string>
-    <string name="text_anywhere_description">Você sabia: Pulse é mais do que apenas um aplicativo para Smartphone. 
+    <string name="text_anywhere_description">Você sabia: Pulse é mais do que apenas um aplicativo para Smartphone.
 Você pode usar o Pulse para enviar mensagens de texto de <b>qualquer</b> dispositivo!</string>
     <string name="convo_list_try_it">Testar!</string>
     <string name="convo_list_not_now">Agora não</string>
@@ -381,13 +381,13 @@ onde não existam configurações individuais para a conversa.</string>
     <string name="bubble_style_square">Cantos retos</string>
     <string name="bubble_style_circle">Arredondado (sem cauda)</string>
     <string name="adjustable_nav_bar">Corresponder Tema da Barra de Navegação ao Tema Global</string>
-    <string name="adjustable_nav_bar_summary">O tema \'Light\' usa uma barra de navegação branca, enquanto os 
+    <string name="adjustable_nav_bar_summary">O tema \'Light\' usa uma barra de navegação branca, enquanto os
 temas escuros usam a barra de navegação preta.</string>
     <string name="apply_theme_globally">Aplicar em todas as Conversas</string>
     <string name="apply_theme_globally_summary">Remova os temas por conversa, e utilize
 este conjunto de cores global</string>
     <string name="conversation_categories">Exibir categorias de data</string>
-    <string name="conversation_categories_summary">categorizar conversas por data (Hoje, Ontem, etc.) 
+    <string name="conversation_categories_summary">categorizar conversas por data (Hoje, Ontem, etc.)
 ao invés de exibir a data em cada uma das conversas</string>
     <string name="message_timestamp">Exibir a data de cada uma das mensagens</string>
     <string name="message_timestamp_summary">Quando inativo, basta tocar em uma mensagem para ver a data e hora.</string>
@@ -403,7 +403,7 @@ ao invés de exibir a data em cada uma das conversas</string>
     <string name="enter_phrase">Adicionar frase</string>
     <string name="enter_phone">Informe o número de telefone</string>
     <string name="blacklist_phrase_hint">Adicionar frase...</string>
-    <string name="add_blacklist">%1$s\n\nVocê tem certeza que deseja bloquear este contato? As mensagens 
+    <string name="add_blacklist">%1$s\n\nVocê tem certeza que deseja bloquear este contato? As mensagens
 desse número não serão mais salvas e você não será notificado!</string>
     <string name="add_blacklist_phrase">%1$s\n\nVocê tem certeza que quer adicionar este bloqueio? As mensagens não
 serão salvas quando contiverem esta frase, e você não será notificado!</string>
@@ -492,7 +492,7 @@ Uma vez concluído, você precisará acessar novamente, em todos os dispositivos
     <string name="use_group_mms_summary">Quando desabilitado, mensagens em grupo serão enviadas como SMS individuais, para cada um dos destinatários</string>
     <string name="use_mms_read_receipts">Ler Recibos</string>
     <string name="auto_save_media">Salvar mídia automaticamente</string>
-    <string name="auto_save_media_summary">Salvar automaticamente qualquer mídia MMS na pasta /Downloads 
+    <string name="auto_save_media_summary">Salvar automaticamente qualquer mídia MMS na pasta /Downloads
 ao recebê-la</string>
     <string name="apn_configuration">Configuração APN</string>
     <string name="override_system_apn">Ignorar APNs do Sistema</string>
@@ -528,13 +528,13 @@ ao recebê-la</string>
     <string name="use_smart_reply_settings">Configurações</string>
     <string name="message_backup">Backup de Mensagens</string>
     <string name="message_backup_pref_summary">Preocupado em perder suas mensagens? Pulse vai te ajudar.</string>
-    <string name="message_backup_summary">Você sabia: O Pulse está sempre por perto realizando o backup das suas 
-mensagens. Quando você se registra em uma conta Pulse, você pode acessar sua conta em qualquer dispositivo ou tablet 
-e restaurar suas mensagens, automaticamente!\n\nSem dificuldade e sem a bagunça de backups manuais. 
+    <string name="message_backup_summary">Você sabia: O Pulse está sempre por perto realizando o backup das suas
+mensagens. Quando você se registra em uma conta Pulse, você pode acessar sua conta em qualquer dispositivo ou tablet
+e restaurar suas mensagens, automaticamente!\n\nSem dificuldade e sem a bagunça de backups manuais.
 Com o Pulse, tudo é fluido, fácil, e completamente automático.</string>
     <string name="message_backup_summary_have_account">Parece que você já tem uma conta Pulse. Ótimo!
 Com sua conta, o Pulse irá fazer o backup das mensagens enviadas e recebidas. Quando você
-verifica suas mensagens em outros dispositivos, você está na verdade acessando este backup. Para restaurar as 
+verifica suas mensagens em outros dispositivos, você está na verdade acessando este backup. Para restaurar as
 mensagens em um novo dispositivo, tudo que você tem que fazer é acessar a sua conta.</string>
     <string name="auto_reply_configuration">Configuração de Resposta Automática</string>
     <string name="auto_reply_configuration_summary">Configure respostas automáticas com base na sua situação</string>
@@ -638,7 +638,7 @@ Você pode personalizar estas opções tocando no botão abaixo e saber mais a r
     <string name="off">Desligado</string>
     <string name="on">Ligado</string>
     <string name="share_promo">Ei, estou adorando o Pulse para o envio de mensagens! Dê uma olhada:
-https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Verificando senha...</string>
     <!-- Rate it -->
     <string name="rate_it">Avalie!</string>
@@ -672,7 +672,7 @@ Sua avaliação com 5 estrelas aquece o meu coração :)</string>
     <string name="subscription_not_found">Nenhuma assinatura encontrada, vamos iniciar a avaliação!</string>
     <string name="checking_for_active_subscriptions">Checando assinaturas&#8230;</string>
     <string name="purchase_error_cancelled">Você cancelou a compra :(</string>
-    <string name="purchase_cancelled_trial_finished">Seu período de teste acabou e a compra foi cancelada. Sua conta será excluída por enquanto.\n \nFique a vontade para configurá-la novamente, 
+    <string name="purchase_cancelled_trial_finished">Seu período de teste acabou e a compra foi cancelada. Sua conta será excluída por enquanto.\n \nFique a vontade para configurá-la novamente,
 sempre que você quiser usar o Pulse em vários dispositivos novamente!</string>
     <string name="purchase_error_bad_google_play">Ahh, o Google play pode estar com problemas, estão nos dando um resultado ruim.</string>
     <string name="purchase_error_bad_sku">Hmm&#8230; Essa compra não coincide com nenhuma em nosso registro.</string>

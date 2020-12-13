@@ -440,7 +440,7 @@ místo zobrazování časové značky u každé jednotlivé konverzace</string>
     <string name="lifetime_subscriber">Doživotní účet</string>
     <string name="trial_period">Zkušební období</string>
     <string name="setup_my_account">Nastavit účet</string>
-    <string name="setup_my_account_summary">Vytvořte si účet, nebo se přihlaste, abyste mohli začít používat 
+    <string name="setup_my_account_summary">Vytvořte si účet, nebo se přihlaste, abyste mohli začít používat
 více funkcí jako psaní zpráv z tabletu či počítače.</string>
     <string name="preparing_new_account">Připravuji účet&#8230;</string>
     <string name="delete_account">Smazat účet</string>
@@ -666,7 +666,7 @@ Tato nastavení můžete upravit s pomocí tlačítka níže. Více o této změ
     <string name="off">Vypnuto</string>
     <string name="on">Zapnuto</string>
     <string name="share_promo">Ahoj, miluji Pulse pro psaní zpráv! Zkus to:
-https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Ověřuji heslo...</string>
     <!-- Rate it -->
     <string name="rate_it">Ohodnoťe ho!</string>

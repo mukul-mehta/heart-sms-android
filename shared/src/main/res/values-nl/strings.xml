@@ -95,7 +95,7 @@
     </plurals>
     <string name="undo">Ongedaan maken</string>
     <string name="enter_search">Zoeken naar...</string>
-    <string name="text_anywhere_description">Wist je dat: Pulse is een veel meer dan een app. 
+    <string name="text_anywhere_description">Wist je dat: Pulse is een veel meer dan een app.
 Je kan Pulse gebruiken om vanop <b>elk</b> toestel te sms\'en.</string>
     <string name="convo_list_try_it">Probeer het!</string>
     <string name="convo_list_not_now">Niet nu</string>
@@ -605,7 +605,7 @@ Gebruik het standaard kanaal om meldingen weer te geven voor conversaties die je
     <string name="off">Uit</string>
     <string name="on">Aan</string>
     <string name="share_promo">Hey, I am loving Pulse for texting! Give it a try:
-https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">Wachtwoord verifiëren...</string>
     <!-- Rate it -->
     <string name="rate_it">Rate it!</string>

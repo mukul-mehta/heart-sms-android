@@ -370,8 +370,8 @@ http://messenger.klinkerapps.com</string>
 بكل المعلومات المتواجدة على جهازك الأساسي.</string>
     <string name="resync_account_summary_phone">سيؤدي هذا إلى حذف حسابك وإعادة تحديثه
 الموجود حاليا في قاعدة بيانات إس إم إس الداخلية الخاصة بك.</string>
-    <string name="resync_account_confirmation">هذه العملية ستقوم بحذف كافة الرسائل المتواجدة على هذا الجهاز، 
-وسوف تعود النسخة الحالية خالية تمامًا من كل المواد التي يحتويها الجهاز الأساسي، 
+    <string name="resync_account_confirmation">هذه العملية ستقوم بحذف كافة الرسائل المتواجدة على هذا الجهاز،
+وسوف تعود النسخة الحالية خالية تمامًا من كل المواد التي يحتويها الجهاز الأساسي،
 هل أنت واثق من رغبتك في اتخاذ هذه الخطوة</string>
     <string name="normalize_color_scheme">أو، يمكنك اختيار لون واحد الذي تريد أن يستند موضوع على:</string>
     <string name="no_apps_found">لم نجد تطبيقات للتعامل مع هذا العمل</string>
@@ -488,7 +488,7 @@ http://messenger.klinkerapps.com</string>
     <string name="on">تشغيل</string>
     <string name="share_promo">مرحبا، لقد أعجبني تطبيق نبض للرسائل النصية! أنصحك بتجريبه الأن:
 قم بتثبيته من المتجر العالمي قوقل بلاي Google Play
-https://play.google.com/store/apps/details?id=xyz.klinker.messenger</string>
+https://play.google.com/store/apps/details?id=xyz.heart.sms</string>
     <string name="verifying_password">جار التحقق من كلمة المرور ...</string>
     <!-- Rate it -->
     <string name="rate_it">تقييم الأن!</string>
