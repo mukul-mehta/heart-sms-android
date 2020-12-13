@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:957154022410:android:ddc593423b4987f1",
         "android_client_info": {
-          "package_name": "xyz.klinker.messenger"
+          "package_name": "xyz.heart.sms"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "957154022410-icr3vt12gukuptdodhfpr59dvlgnoaq3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "xyz.klinker.messenger",
+            "package_name": "xyz.heart.sms",
             "certificate_hash": "ECFFCC45041C6637FF05E4365E47BDE2EEFD09AB"
           }
         },

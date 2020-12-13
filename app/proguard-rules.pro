@@ -7,7 +7,7 @@
 # For more details, see
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
--keep public class xyz.klinker.messenger.** { *; }
+-keep public class xyz.heart.sms.** { *; }
 -keep public class com.google.firebase.** { *; }
 
 ## Android Support Rules ##
@@ -63,7 +63,7 @@
 -dontwarn java.lang.invoke.*
 
 # Article library
--dontwarn xyz.klinker.android.article.**
--keep class xyz.klinker.android.article.** { *; }
--keep interface xyz.klinker.android.article.** { *; }
--keep public class xyz.klinker.android.article.R$* { *; }
+-dontwarn xyz.heart.android.article.**
+-keep class xyz.heart.android.article.** { *; }
+-keep interface xyz.heart.android.article.** { *; }
+-keep public class xyz.heart.android.article.R$* { *; }

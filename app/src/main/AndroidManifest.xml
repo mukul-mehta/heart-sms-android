@@ -16,7 +16,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="xyz.klinker.messenger">
+    package="xyz.heart.sms">
 
     <uses-permission android:name="android.permission.SEND_SMS" />
     <uses-permission android:name="android.permission.READ_SMS" />
@@ -273,10 +273,10 @@
             android:launchMode="singleInstance"
             android:theme="@style/api_Theme.MaterialComponents.Translucent"/>
         <activity android:name="net.rdrei.android.dirchooser.DirectoryChooserActivity" />
-        <activity android:name="xyz.klinker.messenger.activity.passcode.PasscodeVerificationActivity"
+        <activity android:name="xyz.heart.sms.activity.passcode.PasscodeVerificationActivity"
             android:theme="@style/PulsePasscode"
             android:launchMode="singleInstance" />
-        <activity android:name="xyz.klinker.messenger.activity.passcode.PasscodeSetupActivity"
+        <activity android:name="xyz.heart.sms.activity.passcode.PasscodeSetupActivity"
             android:theme="@style/PulsePasscode"
             android:launchMode="singleInstance" />
 
