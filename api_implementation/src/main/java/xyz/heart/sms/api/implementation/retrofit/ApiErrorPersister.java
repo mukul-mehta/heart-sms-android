@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.api.implementation.retrofit;
+package xyz.heart.sms.api.implementation.retrofit;
 
 public interface ApiErrorPersister {
 

@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.api.implementation.retrofit;
+package xyz.heart.sms.api.implementation.retrofit;
 
 import android.util.Log;
 
@@ -7,7 +7,7 @@ import java.io.IOException;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-import xyz.klinker.messenger.api.implementation.ApiUtils;
+import xyz.heart.sms.api.implementation.ApiUtils;
 
 public abstract class RetryableCallback<T> implements Callback<T> {
 

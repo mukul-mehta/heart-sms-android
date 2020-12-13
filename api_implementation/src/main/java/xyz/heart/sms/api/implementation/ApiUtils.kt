@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.implementation
+package xyz.heart.sms.api.implementation
 
 import android.content.Context
 import android.util.Log
@@ -30,14 +30,14 @@ import java.util.concurrent.atomic.AtomicBoolean
 
 import retrofit2.Call
 import retrofit2.Response
-import xyz.klinker.messenger.api.Api
-import xyz.klinker.messenger.api.entity.*
-import xyz.klinker.messenger.api.implementation.firebase.FirebaseDownloadCallback
-import xyz.klinker.messenger.api.implementation.firebase.FirebaseUploadCallback
-import xyz.klinker.messenger.api.implementation.retrofit.AddConversationRetryableCallback
-import xyz.klinker.messenger.api.implementation.retrofit.AddMessageRetryableCallback
-import xyz.klinker.messenger.api.implementation.retrofit.LoggingRetryableCallback
-import xyz.klinker.messenger.encryption.EncryptionUtils
+import xyz.heart.sms.api.Api
+import xyz.heart.sms.api.entity.*
+import xyz.heart.sms.api.implementation.firebase.FirebaseDownloadCallback
+import xyz.heart.sms.api.implementation.firebase.FirebaseUploadCallback
+import xyz.heart.sms.api.implementation.retrofit.AddConversationRetryableCallback
+import xyz.heart.sms.api.implementation.retrofit.AddMessageRetryableCallback
+import xyz.heart.sms.api.implementation.retrofit.LoggingRetryableCallback
+import xyz.heart.sms.encryption.EncryptionUtils
 
 /**
  * Utility for easing access to APIs.

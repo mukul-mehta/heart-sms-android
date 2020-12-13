@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.api.implementation.firebase;
+package xyz.heart.sms.api.implementation.firebase;
 
 import android.content.Context;
 import android.os.Build;
@@ -7,8 +7,8 @@ import android.util.Log;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.messaging.FirebaseMessaging;
 
-import xyz.klinker.messenger.api.implementation.Account;
-import xyz.klinker.messenger.api.implementation.ApiUtils;
+import xyz.heart.sms.api.implementation.Account;
+import xyz.heart.sms.api.implementation.ApiUtils;
 
 public class TokenUtil {
     private static final String TAG = "FCMTokenRefresh";

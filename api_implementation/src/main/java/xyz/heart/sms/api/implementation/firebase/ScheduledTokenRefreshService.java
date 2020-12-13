@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.api.implementation.firebase;
+package xyz.heart.sms.api.implementation.firebase;
 
 import android.app.AlarmManager;
 import android.app.IntentService;
@@ -8,7 +8,7 @@ import android.content.Intent;
 
 import java.util.Date;
 
-import xyz.klinker.messenger.api.implementation.Account;
+import xyz.heart.sms.api.implementation.Account;
 
 public class ScheduledTokenRefreshService extends IntentService {
 

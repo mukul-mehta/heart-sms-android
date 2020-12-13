@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.implementation;
+package xyz.heart.sms.api.implementation;
 
 import android.content.Context;
 import android.graphics.Bitmap;

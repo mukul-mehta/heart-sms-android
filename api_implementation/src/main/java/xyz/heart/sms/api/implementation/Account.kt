@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.api.implementation
+package xyz.heart.sms.api.implementation
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -11,8 +11,8 @@ import java.util.Date
 
 import javax.crypto.spec.SecretKeySpec
 
-import xyz.klinker.messenger.encryption.EncryptionUtils
-import xyz.klinker.messenger.encryption.KeyUtils
+import xyz.heart.sms.encryption.EncryptionUtils
+import xyz.heart.sms.encryption.KeyUtils
 
 @SuppressLint("ApplySharedPref")
 object Account {

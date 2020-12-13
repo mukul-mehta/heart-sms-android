@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.implementation;
+package xyz.heart.sms.api.implementation;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -60,11 +60,11 @@ import com.google.firebase.iid.FirebaseInstanceId;
 
 import java.util.List;
 
-import xyz.klinker.messenger.api.entity.DeviceBody;
-import xyz.klinker.messenger.api.entity.LoginResponse;
-import xyz.klinker.messenger.api.entity.SignupResponse;
-import xyz.klinker.messenger.api.implementation.firebase.AnalyticsHelper;
-import xyz.klinker.messenger.encryption.EncryptionUtils;
+import xyz.heart.sms.api.entity.DeviceBody;
+import xyz.heart.sms.api.entity.LoginResponse;
+import xyz.heart.sms.api.entity.SignupResponse;
+import xyz.heart.sms.api.implementation.firebase.AnalyticsHelper;
+import xyz.heart.sms.encryption.EncryptionUtils;
 
 /**
  * Activity for logging a user in using the API
@@ -447,7 +447,7 @@ public class LoginActivity extends AppCompatActivity {
 
             return false;
         }
-        
+
         return true;
     }
 

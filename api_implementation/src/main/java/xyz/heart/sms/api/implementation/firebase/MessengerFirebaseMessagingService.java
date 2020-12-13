@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.implementation.firebase;
+package xyz.heart.sms.api.implementation.firebase;
 
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
@@ -26,13 +26,13 @@ import com.google.firebase.messaging.RemoteMessage;
 
 import java.util.Map;
 
-import xyz.klinker.messenger.api.implementation.Account;
+import xyz.heart.sms.api.implementation.Account;
 
 public class MessengerFirebaseMessagingService extends FirebaseMessagingService {
 
     private static final String TAG = "FCMService";
     public static final String ACTION_FIREBASE_MESSAGE_RECEIVED =
-            "xyz.klinker.messenger.api.implementation.MESSAGE_RECEIVED";
+            "xyz.heart.sms.api.implementation.MESSAGE_RECEIVED";
     public static final String EXTRA_OPERATION = "operation";
     public static final String EXTRA_DATA = "data";
 

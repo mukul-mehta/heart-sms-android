@@ -1,10 +1,10 @@
-package xyz.klinker.messenger.api.implementation.retrofit;
+package xyz.heart.sms.api.implementation.retrofit;
 
 import android.content.Context;
 import android.util.Log;
 
 import retrofit2.Call;
-import xyz.klinker.messenger.api.implementation.Account;
+import xyz.heart.sms.api.implementation.Account;
 
 public class AddMessageRetryableCallback<T> extends LoggingRetryableCallback<T> {
 

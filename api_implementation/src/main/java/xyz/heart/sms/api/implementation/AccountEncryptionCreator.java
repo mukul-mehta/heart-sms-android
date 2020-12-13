@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.api.implementation;
+package xyz.heart.sms.api.implementation;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -9,10 +9,10 @@ import java.util.Date;
 
 import javax.crypto.SecretKey;
 
-import xyz.klinker.messenger.api.entity.LoginResponse;
-import xyz.klinker.messenger.api.entity.SignupResponse;
-import xyz.klinker.messenger.encryption.EncryptionUtils;
-import xyz.klinker.messenger.encryption.KeyUtils;
+import xyz.heart.sms.api.entity.LoginResponse;
+import xyz.heart.sms.api.entity.SignupResponse;
+import xyz.heart.sms.encryption.EncryptionUtils;
+import xyz.heart.sms.encryption.KeyUtils;
 
 public class AccountEncryptionCreator {
 

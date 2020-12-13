@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.implementation;
+package xyz.heart.sms.api.implementation;
 
-import xyz.klinker.messenger.api.Api;
+import xyz.heart.sms.api.Api;
 
 /**
  * A helper for getting the correct API object.

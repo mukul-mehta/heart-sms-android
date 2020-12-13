@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.implementation;
+package xyz.heart.sms.api.implementation;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -32,11 +32,11 @@ import java.io.IOException;
 import java.util.Locale;
 import java.util.Random;
 
-import xyz.klinker.messenger.api.Api;
-import xyz.klinker.messenger.api.entity.ContactBody;
-import xyz.klinker.messenger.api.entity.ConversationBody;
-import xyz.klinker.messenger.api.entity.LoginResponse;
-import xyz.klinker.messenger.encryption.EncryptionUtils;
+import xyz.heart.sms.api.Api;
+import xyz.heart.sms.api.entity.ContactBody;
+import xyz.heart.sms.api.entity.ConversationBody;
+import xyz.heart.sms.api.entity.LoginResponse;
+import xyz.heart.sms.encryption.EncryptionUtils;
 
 public class ActivateActivity extends AppCompatActivity {
 

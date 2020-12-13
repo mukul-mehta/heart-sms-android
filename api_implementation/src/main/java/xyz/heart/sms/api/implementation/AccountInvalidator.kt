@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.api.implementation
+package xyz.heart.sms.api.implementation
 
 interface AccountInvalidator {
 
