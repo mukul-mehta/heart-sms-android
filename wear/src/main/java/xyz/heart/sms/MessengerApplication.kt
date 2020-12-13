@@ -14,19 +14,19 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger
+package xyz.heart.sms
 
 import android.app.Application
 import android.content.Intent
-import xyz.klinker.messenger.api.implementation.Account
-import xyz.klinker.messenger.api.implementation.AccountInvalidator
+import xyz.heart.sms.api.implementation.Account
+import xyz.heart.sms.api.implementation.AccountInvalidator
 
-import xyz.klinker.messenger.api.implementation.firebase.FirebaseApplication
-import xyz.klinker.messenger.api.implementation.firebase.FirebaseMessageHandler
-import xyz.klinker.messenger.shared.data.DataSource
-import xyz.klinker.messenger.shared.service.FirebaseHandlerService
-import xyz.klinker.messenger.shared.service.FirebaseResetService
-import xyz.klinker.messenger.shared.util.*
+import xyz.heart.sms.api.implementation.firebase.FirebaseApplication
+import xyz.heart.sms.api.implementation.firebase.FirebaseMessageHandler
+import xyz.heart.sms.shared.data.DataSource
+import xyz.heart.sms.shared.service.FirebaseHandlerService
+import xyz.heart.sms.shared.service.FirebaseResetService
+import xyz.heart.sms.shared.util.*
 
 /**
  * Base application that will serve as any intro for any context in the rest of the app. Main

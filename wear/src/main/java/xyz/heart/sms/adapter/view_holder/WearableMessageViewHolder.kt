@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.adapter.view_holder
+package xyz.heart.sms.adapter.view_holder
 
 import android.animation.ValueAnimator
 import android.content.Intent
@@ -11,16 +11,16 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import xyz.klinker.android.article.ArticleIntent
-import xyz.klinker.messenger.R
-import xyz.klinker.messenger.shared.data.ArticlePreview
-import xyz.klinker.messenger.shared.data.MimeType
-import xyz.klinker.messenger.shared.data.Settings
-import xyz.klinker.messenger.shared.data.model.Message
-import xyz.klinker.messenger.shared.util.ColorUtils
-import xyz.klinker.messenger.shared.util.DensityUtil
-import xyz.klinker.messenger.shared.util.ImageUtils
-import xyz.klinker.messenger.shared.util.listener.ForcedRippleTouchListener
-import xyz.klinker.messenger.shared.util.media.parsers.ArticleParser
+import xyz.heart.sms.R
+import xyz.heart.sms.shared.data.ArticlePreview
+import xyz.heart.sms.shared.data.MimeType
+import xyz.heart.sms.shared.data.Settings
+import xyz.heart.sms.shared.data.model.Message
+import xyz.heart.sms.shared.util.ColorUtils
+import xyz.heart.sms.shared.util.DensityUtil
+import xyz.heart.sms.shared.util.ImageUtils
+import xyz.heart.sms.shared.util.listener.ForcedRippleTouchListener
+import xyz.heart.sms.shared.util.media.parsers.ArticleParser
 
 class WearableMessageViewHolder(itemView: View, color: Int, type: Int, private val timestampHeight: Int)
     : RecyclerView.ViewHolder(itemView) {

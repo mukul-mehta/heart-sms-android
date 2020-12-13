@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.util
+package xyz.heart.sms.util
 
 import android.support.wearable.view.DefaultOffsettingHelper
 import android.support.wearable.view.WearableRecyclerView

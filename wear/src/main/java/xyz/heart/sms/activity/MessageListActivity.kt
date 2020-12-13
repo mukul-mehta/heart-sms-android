@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.activity
+package xyz.heart.sms.activity
 
 import android.content.Context
 import android.content.Intent
@@ -10,18 +10,18 @@ import androidx.appcompat.app.AppCompatActivity
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.wear.widget.drawer.WearableDrawerLayout
-import xyz.klinker.messenger.R
-import xyz.klinker.messenger.adapter.WearableMessageListAdapter
-import xyz.klinker.messenger.api.implementation.Account
-import xyz.klinker.messenger.api.implementation.ApiUtils
-import xyz.klinker.messenger.shared.data.DataSource
-import xyz.klinker.messenger.shared.data.MimeType
-import xyz.klinker.messenger.shared.data.Settings
-import xyz.klinker.messenger.shared.data.model.Conversation
-import xyz.klinker.messenger.shared.data.model.Message
-import xyz.klinker.messenger.shared.receiver.MessageListUpdatedReceiver
-import xyz.klinker.messenger.shared.shared_interfaces.IMessageListFragment
-import xyz.klinker.messenger.shared.util.*
+import xyz.heart.sms.R
+import xyz.heart.sms.adapter.WearableMessageListAdapter
+import xyz.heart.sms.api.implementation.Account
+import xyz.heart.sms.api.implementation.ApiUtils
+import xyz.heart.sms.shared.data.DataSource
+import xyz.heart.sms.shared.data.MimeType
+import xyz.heart.sms.shared.data.Settings
+import xyz.heart.sms.shared.data.model.Conversation
+import xyz.heart.sms.shared.data.model.Message
+import xyz.heart.sms.shared.receiver.MessageListUpdatedReceiver
+import xyz.heart.sms.shared.shared_interfaces.IMessageListFragment
+import xyz.heart.sms.shared.util.*
 import xyz.klinker.wear.reply.WearableReplyActivity
 
 class MessageListActivity : AppCompatActivity(), IMessageListFragment {

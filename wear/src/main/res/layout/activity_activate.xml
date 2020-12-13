@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="xyz.klinker.messenger.activity.MessengerActivity"
+    tools:context="xyz.heart.sms.activity.MessengerActivity"
     tools:deviceIds="wear_round">
 
     <LinearLayout

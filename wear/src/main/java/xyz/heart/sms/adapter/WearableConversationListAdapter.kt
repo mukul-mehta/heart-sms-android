@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.adapter
+package xyz.heart.sms.adapter
 
 import android.graphics.drawable.ColorDrawable
 import android.net.Uri
@@ -7,15 +7,15 @@ import android.view.View
 import android.view.ViewGroup
 import com.afollestad.sectionedrecyclerview.SectionedRecyclerViewAdapter
 import com.bumptech.glide.Glide
-import xyz.klinker.messenger.R
-import xyz.klinker.messenger.adapter.view_holder.WearableConversationViewHolder
-import xyz.klinker.messenger.shared.data.SectionType
-import xyz.klinker.messenger.shared.data.Settings
-import xyz.klinker.messenger.shared.data.model.Conversation
-import xyz.klinker.messenger.shared.data.pojo.ReorderType
-import xyz.klinker.messenger.shared.shared_interfaces.IConversationListAdapter
-import xyz.klinker.messenger.shared.util.ContactUtils
-import xyz.klinker.messenger.shared.util.TimeUtils
+import xyz.heart.sms.R
+import xyz.heart.sms.adapter.view_holder.WearableConversationViewHolder
+import xyz.heart.sms.shared.data.SectionType
+import xyz.heart.sms.shared.data.Settings
+import xyz.heart.sms.shared.data.model.Conversation
+import xyz.heart.sms.shared.data.pojo.ReorderType
+import xyz.heart.sms.shared.shared_interfaces.IConversationListAdapter
+import xyz.heart.sms.shared.util.ContactUtils
+import xyz.heart.sms.shared.util.TimeUtils
 import java.util.*
 
 class WearableConversationListAdapter(conversations: List<Conversation>) : SectionedRecyclerViewAdapter<WearableConversationViewHolder>(), IConversationListAdapter {

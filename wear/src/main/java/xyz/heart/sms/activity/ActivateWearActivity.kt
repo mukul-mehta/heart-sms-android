@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.activity
+package xyz.heart.sms.activity
 
 import android.app.Activity
 import android.os.Build
@@ -10,11 +10,11 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import com.google.firebase.iid.FirebaseInstanceId
-import xyz.klinker.messenger.R
-import xyz.klinker.messenger.api.entity.LoginResponse
-import xyz.klinker.messenger.api.implementation.AccountEncryptionCreator
-import xyz.klinker.messenger.api.implementation.ApiUtils
-import xyz.klinker.messenger.api.implementation.LoginActivity
+import xyz.heart.sms.R
+import xyz.heart.sms.api.entity.LoginResponse
+import xyz.heart.sms.api.implementation.AccountEncryptionCreator
+import xyz.heart.sms.api.implementation.ApiUtils
+import xyz.heart.sms.api.implementation.LoginActivity
 import java.io.IOException
 import java.util.*
 
@@ -119,7 +119,7 @@ class ActivateWearActivity : Activity() {
                 finish()
             } catch (e: Exception) {
                 runOnUiThread {
-                    Toast.makeText(this@ActivateWearActivity, xyz.klinker.messenger.api.implementation.R.string.api_wrong_password,
+                    Toast.makeText(this@ActivateWearActivity, xyz.heart.sms.api.implementation.R.string.api_wrong_password,
                             Toast.LENGTH_LONG).show()
                     activated(response)
                 }

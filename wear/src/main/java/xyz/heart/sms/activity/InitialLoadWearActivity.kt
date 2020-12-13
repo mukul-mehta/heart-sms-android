@@ -1,4 +1,4 @@
-package xyz.klinker.messenger.activity
+package xyz.heart.sms.activity
 
 import android.app.Activity
 import android.content.BroadcastReceiver
@@ -16,16 +16,16 @@ import android.widget.ProgressBar
 
 import com.klinker.android.send_message.Utils
 
-import xyz.klinker.messenger.R
-import xyz.klinker.messenger.api.implementation.*
-import xyz.klinker.messenger.shared.data.DataSource
-import xyz.klinker.messenger.shared.data.Settings
-import xyz.klinker.messenger.shared.data.model.Contact
-import xyz.klinker.messenger.shared.data.model.Conversation
-import xyz.klinker.messenger.shared.service.ApiDownloadService
-import xyz.klinker.messenger.shared.service.ApiUploadService
-import xyz.klinker.messenger.shared.util.*
-import xyz.klinker.messenger.shared.util.listener.ProgressUpdateListener
+import xyz.heart.sms.R
+import xyz.heart.sms.api.implementation.*
+import xyz.heart.sms.shared.data.DataSource
+import xyz.heart.sms.shared.data.Settings
+import xyz.heart.sms.shared.data.model.Contact
+import xyz.heart.sms.shared.data.model.Conversation
+import xyz.heart.sms.shared.service.ApiDownloadService
+import xyz.heart.sms.shared.service.ApiUploadService
+import xyz.heart.sms.shared.util.*
+import xyz.heart.sms.shared.util.listener.ProgressUpdateListener
 
 class InitialLoadWearActivity : Activity(), ProgressUpdateListener {
 
@@ -64,7 +64,7 @@ class InitialLoadWearActivity : Activity(), ProgressUpdateListener {
 
     public override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(xyz.klinker.messenger.R.layout.activity_initial_load_wear)
+        setContentView(xyz.heart.sms.R.layout.activity_initial_load_wear)
 
         handler = Handler()
         requestPermissions()
@@ -119,7 +119,7 @@ class InitialLoadWearActivity : Activity(), ProgressUpdateListener {
                     registerReceiver(downloadReceiver,
                             IntentFilter(ApiDownloadService.ACTION_DOWNLOAD_FINISHED))
                 }
-                xyz.klinker.messenger.api.implementation.ActivateActivity.RESULT_FAILED -> finish()
+                xyz.heart.sms.api.implementation.ActivateActivity.RESULT_FAILED -> finish()
             }
         }
     }
