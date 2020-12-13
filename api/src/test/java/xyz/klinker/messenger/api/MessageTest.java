@@ -14,15 +14,15 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api;
+package xyz.heart.sms.api;
 
 import org.junit.Test;
 
 import java.io.IOException;
 
-import xyz.klinker.messenger.api.entity.AddMessagesRequest;
-import xyz.klinker.messenger.api.entity.MessageBody;
-import xyz.klinker.messenger.api.entity.UpdateMessageRequest;
+import xyz.heart.sms.api.entity.AddMessagesRequest;
+import xyz.heart.sms.api.entity.MessageBody;
+import xyz.heart.sms.api.entity.UpdateMessageRequest;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;

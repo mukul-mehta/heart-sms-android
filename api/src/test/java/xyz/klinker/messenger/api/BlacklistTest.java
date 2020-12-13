@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api;
+package xyz.heart.sms.api;
 
 import org.junit.Test;
 
 import java.io.IOException;
 
-import xyz.klinker.messenger.api.entity.AddBlacklistRequest;
-import xyz.klinker.messenger.api.entity.BlacklistBody;
+import xyz.heart.sms.api.entity.AddBlacklistRequest;
+import xyz.heart.sms.api.entity.BlacklistBody;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
