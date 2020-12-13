@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.service;
+package xyz.heart.sms.api.service;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
@@ -22,9 +22,9 @@ import retrofit2.http.GET;
 import retrofit2.http.POST;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
-import xyz.klinker.messenger.api.entity.AddScheduledMessageRequest;
-import xyz.klinker.messenger.api.entity.ScheduledMessageBody;
-import xyz.klinker.messenger.api.entity.UpdateScheduledMessageRequest;
+import xyz.heart.sms.api.entity.AddScheduledMessageRequest;
+import xyz.heart.sms.api.entity.ScheduledMessageBody;
+import xyz.heart.sms.api.entity.UpdateScheduledMessageRequest;
 
 public interface ScheduledMessageService {
 

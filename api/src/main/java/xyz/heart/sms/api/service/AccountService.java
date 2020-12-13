@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.service;
+package xyz.heart.sms.api.service;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
@@ -22,12 +22,12 @@ import retrofit2.http.GET;
 import retrofit2.http.POST;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
-import xyz.klinker.messenger.api.entity.AccountCountResponse;
-import xyz.klinker.messenger.api.entity.AccountListResponse;
-import xyz.klinker.messenger.api.entity.LoginRequest;
-import xyz.klinker.messenger.api.entity.LoginResponse;
-import xyz.klinker.messenger.api.entity.SignupRequest;
-import xyz.klinker.messenger.api.entity.SignupResponse;
+import xyz.heart.sms.api.entity.AccountCountResponse;
+import xyz.heart.sms.api.entity.AccountListResponse;
+import xyz.heart.sms.api.entity.LoginRequest;
+import xyz.heart.sms.api.entity.LoginResponse;
+import xyz.heart.sms.api.entity.SignupRequest;
+import xyz.heart.sms.api.entity.SignupResponse;
 
 /**
  * Service for interfacing with account endpoints.

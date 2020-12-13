@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.service;
+package xyz.heart.sms.api.service;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
-import xyz.klinker.messenger.api.entity.LoginResponse;
+import xyz.heart.sms.entity.LoginResponse;
 
 public interface ActivateService {
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.service;
+package xyz.heart.sms.api.service;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
@@ -22,9 +22,9 @@ import retrofit2.http.GET;
 import retrofit2.http.POST;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
-import xyz.klinker.messenger.api.entity.AddConversationRequest;
-import xyz.klinker.messenger.api.entity.ConversationBody;
-import xyz.klinker.messenger.api.entity.UpdateConversationRequest;
+import xyz.heart.sms.api.entity.AddConversationRequest;
+import xyz.heart.sms.api.entity.ConversationBody;
+import xyz.heart.sms.api.entity.UpdateConversationRequest;
 
 public interface ConversationService {
 

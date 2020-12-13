@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package xyz.klinker.messenger.api.service;
+package xyz.heart.sms.api.service;
 
 import retrofit2.Call;
 import retrofit2.http.POST;
