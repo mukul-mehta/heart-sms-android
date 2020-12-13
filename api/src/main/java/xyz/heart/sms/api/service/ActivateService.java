@@ -19,7 +19,7 @@ package xyz.heart.sms.api.service;
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
-import xyz.heart.sms.entity.LoginResponse;
+import xyz.heart.sms.api.entity.LoginResponse;
 
 public interface ActivateService {
 
